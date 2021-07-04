@@ -2,7 +2,7 @@
 
 [Visit https://www.sminrana.com](https://www.sminrana.com "Visit https://www.sminrana.com")
 
-Hope this repository will help you some day!!!
+Hope this repository will help you someday!!!
 
 ## Design
 
