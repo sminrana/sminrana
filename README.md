@@ -27,7 +27,7 @@ iOS,  macOS, Android, Flutter, PHP, Python, MySQL, AWS, Linux.
 **Alias I often use:** Smin
 
 
-Connect with me on [Twitter](https://twitter.com/sminrana) [Linkedin](https://www.linkedin.com/in/sminrana/) [Email](mailto:sminrana@gmail.com)
+Connect with me on [Twitter](https://twitter.com/sminrana) [Linkedin](https://www.linkedin.com/in/sminrana/) 
 
 
 Read my blog
