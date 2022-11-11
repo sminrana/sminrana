@@ -21,10 +21,14 @@ Java, Java EE, Adobe ColdFusion, BlazeDS, Action Script 2 & 3, Adobe Flex RIA
 iOS,  macOS, Android, Flutter, PHP, Python, MySQL, AWS, Linux.
 
 **Name:** S M Ibrahim Nafiz
+
 **Alias I often use:** Smin
+
 
 Connect with me on [Twitter](https://twitter.com/sminrana) [Linkedin](https://www.linkedin.com/in/sminrana/) [Email](mailto:sminrana@gmail.com)
 
+
 Read my blog
+
 [Visit https://www.sminrana.com](https://www.sminrana.com "Visit https://www.sminrana.com")
 
