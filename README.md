@@ -22,8 +22,6 @@ iOS,  macOS, Android, Flutter, PHP, Python, MySQL, AWS, Linux.
 
 ---
 
-**Name:** S M Ibrahim Nafiz
-
 Connect with me on [Twitter](https://twitter.com/sminrana) [Linkedin](https://www.linkedin.com/in/sminrana/) 
 
 
