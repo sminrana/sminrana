@@ -14,7 +14,7 @@ QBasic, Lotus 1-2-3 (Spreadsheet), Java, Java EE
 
 **2006 - 2010**
 
-Java, Java EE, Adobe ColdFusion, BlazeDS, Action Script 2 & 3, Adobe Flex RIA
+Java, Java EE, Adobe ColdFusion, BlazeDS, ActionScript 2 & 3, Adobe Flex RIA
 
 **2010 - Now**
 
