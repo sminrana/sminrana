@@ -2,22 +2,7 @@
 
 Hi there, thanks for visiting my Github. I'm a software engineer contributing to open-source. 
 
-## My Programming Timeline
-
-### School, College, Hobby
-
-**1997 - 2006**
-
-QBasic, Lotus 1-2-3 (Spreadsheet), Java, Java EE
-
-### Professional Experiences 
-
-**2006 - 2010**
-
-Java, Java EE, Adobe ColdFusion, BlazeDS, ActionScript 2 & 3, Adobe Flex RIA
-
-**2010 - Now**
-
+## Skills
 iOS,  macOS, Android, Flutter, PHP, Python, MySQL, AWS, Linux.
 
 ---
