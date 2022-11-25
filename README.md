@@ -2,8 +2,21 @@
 
 Hi there, thanks for visiting my Github. I'm a software engineer contributing to open-source. 
 
-## Skills
-iOS,  macOS, Android, Flutter, PHP, Python, MySQL, AWS, Linux.
+## My Programming Timeline
+
+### Hobby
+
+**1997 - 2006**
+
+QBasic, Lotus 1-2-3 (Spreadsheet), Java, Java EE
+
+### Professional Experiences 
+
+**2006 - Now**
+
+- Java, Java EE, Adobe ColdFusion, BlazeDS, ActionScript 2 & 3, Adobe Flex RIA
+
+- iOS, macOS, Android, Flutter, PHP, Python, MySQL, AWS, Linux.
 
 ---
 
