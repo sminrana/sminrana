@@ -14,9 +14,7 @@ QBasic, Lotus 1-2-3 (Spreadsheet), Java, Java EE
 
 **2006 - Now**
 
-- Java, Java EE, Adobe ColdFusion, BlazeDS, ActionScript 2 & 3, Adobe Flex RIA
-
-- iOS, macOS, Android, Flutter, PHP, Python, MySQL, AWS, Linux.
+- iOS, macOS, Android, Flutter, PHP, Python.
 
 ---
 
