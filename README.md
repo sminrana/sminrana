@@ -2,6 +2,11 @@
 
 Hi there, thanks for visiting my Github. I'm a software engineer contributing to open-source. 
 
+## Education
+
+B.Sc. in Computer Science & Engineering
+
+
 ## My Programming Timeline
 
 ### Hobby
