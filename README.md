@@ -4,7 +4,7 @@ Hi there, thanks for visiting my Github. I'm a software engineer contributing to
 
 ## Education
 
-B.Sc. in Computer Science & Engineering
+Bachelor of Science: Computer Science & Engineering
 
 
 ## Programming
