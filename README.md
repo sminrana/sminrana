@@ -7,7 +7,7 @@ Hi there, thanks for visiting my Github. I'm a software engineer contributing to
 B.Sc. in Computer Science & Engineering
 
 
-## My Programming Timeline
+## Programming
 
 ### Hobby
 
