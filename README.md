@@ -13,13 +13,22 @@ B.Sc. in Computer Science & Engineering
 
 **1997 - 2006**
 
-QBasic, Lotus 1-2-3 (Spreadsheet), Java, Java EE
+- QBasic
+- Lotus 1-2-3 (Spreadsheet)
+- Java EE
 
 ### Professional Experiences 
 
 **2006 - Now**
 
-- iOS, macOS, Android, Flutter, PHP, Python.
+- iOS
+- macOS
+- Android
+- Flutter
+- PHP
+- Python
+- Linux
+- MySQL
 
 ---
 
