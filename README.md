@@ -20,5 +20,5 @@ Bachelor of Science: Computer Science & Engineering
 Connect with me on [Twitter](https://twitter.com/sminrana) [Linkedin](https://www.linkedin.com/in/inafiz/) 
 
 
-[Read my blog](https://inafiz.com)
+[Read my blog](https://sminrana.com)
 
