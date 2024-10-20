@@ -1,12 +1,11 @@
 
 
-Hi there, thanks for visiting my GitHub. I'm a software engineer contributing to open-source. 
+Hi, I'm Nafz 👋
 
-## Education
-
+### Education
 Bachelor of Science: Computer Science & Engineering
 
-## Professional Experiences 
+### Professional Experiences 
 
 - iOS
 - macOS
@@ -14,11 +13,4 @@ Bachelor of Science: Computer Science & Engineering
 - Python
 - Linux
 - MySQL
-
----
-
-Connect with me on [Twitter](https://twitter.com/sminrana) [Linkedin](https://www.linkedin.com/in/inafiz/) 
-
-
-[Read my blog](https://sminrana.com)
 
