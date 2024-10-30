@@ -1,6 +1,6 @@
 
 
-Hi, I'm Nafz 👋
+Hi, I'm Nafiz aka Smin 👋
 
 ### Education
 Bachelor of Science: Computer Science & Engineering
