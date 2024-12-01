@@ -10,8 +10,7 @@ Bachelor of Science: Computer Science & Engineering
 - iOS
 - Android
 - macOS
-- PHP
-- Python
-- Linux
-- MySQL
+- Flutter
+- React Native
+- Laravel
 
