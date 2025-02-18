@@ -1,6 +1,6 @@
 
 
-I'm Nafiz aka Smin, a seasoned software engineer passionate about crafting robust and user-friendly applications. 👋
+I'm Nafiz aka SMIN, a seasoned software engineer passionate about crafting robust and user-friendly applications. 👋
 
 ### Education
 Bachelor of Science: Computer Science & Engineering
