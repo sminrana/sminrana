@@ -14,3 +14,4 @@ Bachelor of Science: Computer Science & Engineering
 - React Native
 - Laravel
 
+My dotfiles https://github.com/sminrana/dotfiles
