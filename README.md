@@ -1,6 +1,6 @@
-# Hi, I’m a Mobile App Developer 👋
+# Hi, I’m Nafiz 👋
 
-...focused on building production-ready iOS and Android apps.
+Mobile App Developer, focused on building production-ready iOS and Android apps.
 
 My main work is mobile — native and cross-platform — backed by 10+ years of experience working with backend systems and APIs. This helps me build apps that are complete, stable, and easy to scale.
 
