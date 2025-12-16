@@ -1,6 +1,8 @@
 # Hi, I’m a Mobile App Developer 👋
 
-I build mobile apps with a mobile-first mindset, backed by over 10 years of experience working with backend systems and APIs.
+...focused on building production-ready iOS and Android apps.
+
+My main work is mobile — native and cross-platform — backed by 10+ years of experience working with backend systems and APIs. This helps me build apps that are complete, stable, and easy to scale.
 
 ## Mobile
 - iOS: Swift, SwiftUI
