@@ -1,27 +1,75 @@
-# Hi, I’m Nafiz 👋
+I help founders and startups **build, fix, and ship mobile apps with a reliable backend**.
 
-Mobile App Developer, focused on building production-ready iOS and Android apps.
+If your app is blocked by bugs, unstable APIs, auth issues, or backend problems — I handle the **app and backend together**, so things move fast without handoffs.
 
-My main work is mobile — native and cross-platform — backed by 10+ years of experience working with backend systems and APIs. This helps me build apps that are complete, stable, and easy to scale.
+---
 
-## Mobile
-- iOS: Swift, SwiftUI
-- Android: Kotlin
-- React Native
-- Flutter
+## What I Do
 
-## Backend & APIs
-- PHP
-- TypeScript
-- Python
+### 📱 Mobile App
 
-## What I focus on
-- MVPs and early-stage products
-- End-to-end mobile apps
-- Clean API integration
-- Maintainable, readable code
+* Build and improve mobile apps
+* Fix critical bugs and crashes
+* Integrate APIs and backend services
+* Prepare apps for production & launch
 
-## How I work
-I prefer simple architectures, clear communication, and shipping usable features instead of over-engineering.
+### 🧠 Backend & APIs
 
-This GitHub contains real projects, experiments, and tools built while working on mobile and backend systems.
+* REST / JSON API design & fixes
+* Authentication & user management
+* Database design & migrations
+* Third‑party integrations (payments, notifications, etc.)
+* Performance, stability & production issues
+
+---
+
+## Typical Projects
+
+* Fixing app + backend issues blocking launch
+* Building MVPs (app + backend) for startups
+* Cleaning up unstable backends used by mobile apps
+* Adding new features across app and backend
+* Debugging production issues end‑to‑end
+
+---
+
+## How I Work
+
+* **Outcome‑focused** — solve the real blocker, not just write code
+* **End‑to‑end ownership** — app and backend together
+* **Clear communication** — no guessing, no finger‑pointing
+* **Practical solutions** — ship first, improve iteratively
+
+---
+
+## Example Case Snapshots
+
+**Problem:** App login failing due to backend auth issues
+**Action:** Traced API + app flow, fixed auth logic and API responses
+**Result:** Stable login, app ready for release
+
+---
+
+**Problem:** Mobile app blocked by slow and unreliable APIs
+**Action:** Refactored backend endpoints and optimized queries
+**Result:** Faster app performance and smoother user experience
+
+---
+
+## Tech Stack (as needed)
+
+* Mobile: iOS / Cross‑platform (project‑dependent)
+* Backend: Laravel / Django / Node / Firebase
+* Databases: SQL / NoSQL
+* APIs: REST, third‑party integrations
+* Deployment: Cloud & production environments
+
+*(Tools matter less than solving the problem.)*
+
+---
+
+## Let’s Talk
+
+If you need help **shipping faster**, fixing bugs, or building an app + backend MVP:
+
+📧 Email: [sminrana@gmail.com](mailto:sminrana@gmail.com)
